@@ -3,7 +3,7 @@
 - 👴 **Age** > 24.
 - 🥅 **Goals** > Release advanced projects while contributing to projects.
 - 🧩 **Hobbies** > Doing things.
-- 🎵 **Music** > [![Twitter](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/q764wr5c1bwxi9qcu60fgaeyx)
+- 🎵 **Music** > [![Spotify](https://img.shields.io/badge/Spotify-%23f2d91d.svg?logo=Spotify&logoColor=white)](https://open.spotify.com/user/q764wr5c1bwxi9qcu60fgaeyx)
 - 🎮 **Games** > Grand Theft Auto, League of Legends, and Squad
 
 ## 🌐Socials
