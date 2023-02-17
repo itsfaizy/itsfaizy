@@ -1,5 +1,10 @@
 ### 💫About Me :
-im faizy :)
+- 🧹 **Job** > Freelancer / Chill Squad
+- 👴 **Age** > 24.
+- 🥅 **Goals** > Release advanced projects while contributing to projects.
+- 🧩 **Hobbies** > Doing things.
+- 🎵 **Music** > [![Spotify](https://open.spotify.com/user/q764wr5c1bwxi9qcu60fgaeyx)]
+- 🎮 **Games** > Grand Theft Auto, League of Legends, and Squad
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/http://discord.gg/eY9vyvY) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21086732) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/itsfaizy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ogfaizy) [![](https://visitcount.itsvg.in/api?id=itsfaizy&icon=2&color=11)](https://visitcount.itsvg.in)
