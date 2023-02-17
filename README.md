@@ -3,7 +3,7 @@
 - 👴 **Age** > 24.
 - 🥅 **Goals** > Release advanced projects while contributing to projects.
 - 🧩 **Hobbies** > Doing things.
-- 🎵 **Music** > [![Spotify](https://cdn-icons-png.flaticon.com/512/3669/3669986.png)](https://open.spotify.com/user/q764wr5c1bwxi9qcu60fgaeyx)
+- 🎵 **Music** > [![Spotify](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://open.spotify.com/user/q764wr5c1bwxi9qcu60fgaeyx)
 - 🎮 **Games** > Grand Theft Auto, League of Legends, and Squad
 
 ## 🌐Socials
