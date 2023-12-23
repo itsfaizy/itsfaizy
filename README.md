@@ -1,6 +1,6 @@
 ### 💫About Me :
 - 🧹 **Job** > Freelancer / Chill Squad
-- 👴 **Age** > 24.
+- 👴 **Age** > 25.
 - 🥅 **Goals** > Release advanced projects while contributing to projects.
 - 🧩 **Hobbies** > Doing things.
 - 🎵 **Music** > [![Spotify](https://open.spotify.com/user/q764wr5c1bwxi9qcu60fgaeyx)]
