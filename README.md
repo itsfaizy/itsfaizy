@@ -27,7 +27,7 @@
   <a href="https://stackoverflow.com/users/21086732"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
   <a href="https://kick.com/itsfaizy"><img alt="Kick" src="https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=000"/></a>
   <a href="https://twitch.tv/itsfaizy"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"/></a>
-  <a href="https://discord.gg/http://discord.gg/eY9vyvY"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
+  <a href="http://discord.gg/J7JqcG5"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
   <a href="https://twitter.com/ogfaizy"><img alt="Twitter" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>
   <a href="https://open.spotify.com/user/q764wr5c1bwxi9qcu60fgaeyx"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-%23f2d91d.svg?logo=Spotify&logoColor=white"/></a>
   <a href="https://music.apple.com/profile/itsfaizy"><img alt="Apple Music" src="https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white"/></a>
@@ -39,7 +39,7 @@
 ---
 
 <div align="center" style="margin: 0 auto;">
-  <table style="border: none; width: 80%;">
+  <table style="border: none; width: "80%";">
     <tr>
       <td align="center" width="50%">
         <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Quote" width="80%">
@@ -51,6 +51,12 @@
     </tr>
   </table>
 </div>
+
+---
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.6/assets/png/1f40c.png" width="18" height="18"> Current Affiliations: _`(Lead Developer for RemnantRP @ Cfx.re's FiveM)`_
+<a href="http://discord.gg/rnrp5m">
+    <img src="https://i.imgur.com/WTYf2y1.jpeg" style="margin: 0 auto;">
+</a>
 
 ---
 
