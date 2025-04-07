@@ -53,12 +53,6 @@
 </div>
 
 ---
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.6/assets/png/1f40c.png" width="18" height="18"> Current Affiliations: _`(Lead Developer for RemnantRP @ Cfx.re's FiveM)`_
-<a href="http://discord.gg/rnrp5m">
-    <img src="https://i.imgur.com/WTYf2y1.jpeg" style="margin: 0 auto;">
-</a>
-
----
 
 ### 💰 Support Me  
 <div align="center">
